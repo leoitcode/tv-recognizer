@@ -6,8 +6,9 @@ This project was originally created to be part of Beep App project. The work use
 
 Data:
 --------
-The Folders consists of the far detection (for entire Television), and close detection (for just logo on entire phone screen).
-
+- The Folders (TvLogo_Detect) consists of the Far detection (for entire Television), and Close detection (for just logo on entire phone screen).
+- The Notebook (Logo_Data_Augmentation.ipynb) consists of the program to Augment the logo images due the few images to compose the dataset and for better accuracy on detection.
+- Pre-made APKs to put directly into smartphone.
 
 Setting Up:
 -----------------------------------
