@@ -9,7 +9,7 @@ Data:
 - TFLITE file (TensorFlow Lite), was constructed using:
   - Darknet: Open source neural network framework (C and CUDA), for GPU Computation [LINK](https://github.com/pjreddie/darknet)
   - YOLO V2 Tiny: Real-time object detection system, V2 Tiny version due the compatibility with TensorFlow Lite.
-  - Fastai: vision library to manipulate and check image and training.
+  - Fastai: vision library to manipulate, augment and also check the results of training.
     The Notebook [Logo_Data_Augmentation](https://colab.research.google.com/github/leoitcode/tv-recognizer/blob/master/Logo_Data_Augmentation.ipynb) was created on Google Colaboratory and show the whole code and explain the Data Augmentation Process.
   - Darkflow: To convert to Tflite PB (Protobuf) containing the model' weights and the graph definition.
   
