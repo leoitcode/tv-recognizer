@@ -37,8 +37,8 @@ Install from pre-made APK:
 -----------------
 You can install the apk directly on Smartphone:
 
-- APK for Far distance: 
-- APK for Close distance: 
+- APK for Far distance: [LINK](logo_detect_far.apk)
+- APK for Close distance: [LINK](logo_detect_close.apk)
 
 PREVIEW:
 -----------------
