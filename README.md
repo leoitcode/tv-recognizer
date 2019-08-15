@@ -5,7 +5,7 @@ This project was originally created to be part of Beep App project. The work use
 
 Goal:
 ----------
-This basically recognize 6 main Brazil Tv Stations Logos (SBT, Globo, Record, RedeTV, Band, TvBrasil)
+This basically recognize 6 main Brazil Tv Stations Logos (SBT, Globo, Record, RedeTV, Band, TvBrasil) on Android Smartphone and PC Webcam.
 
 ![](images/broadcasters.jpeg)
 
