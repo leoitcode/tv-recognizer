@@ -15,9 +15,10 @@ Data:
   - Darknet: Open source neural network framework (C and CUDA), for GPU Computation [LINK](https://github.com/pjreddie/darknet)
   - YOLO V2 Tiny: Real-time object detection system, V2 Tiny version due the compatibility with TensorFlow Lite.
   - Fastai: vision library to manipulate, augment and also check the results of training.
-    The Notebook [Logo_Data_Augmentation](https://colab.research.google.com/github/leoitcode/tv-recognizer/blob/master/Logo_Data_Augmentation.ipynb) was created on Google Colaboratory and show the whole code and explain the Data Augmentation Process.
   - Darkflow: To convert to Tflite PB (Protobuf) containing the model' weights and the graph definition.
   
+- The Notebook [Logo_Data_Augmentation](https://colab.research.google.com/github/leoitcode/tv-recognizer/blob/master/Logo_Data_Augmentation.ipynb) was created on Google Colaboratory and show the whole code and explain the Data Augmentation Process.
+
 - The Flutter Folders (TvLogo_Detect) consists of the Distance detection (for entire Television), and Close detection (for just logo on entire phone screen).
 
 - Pre-made APKs to put directly into smartphone.
