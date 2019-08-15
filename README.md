@@ -3,6 +3,11 @@ Brazil Tv Station Logo Recognizer
 
 This project was originally created to be part of Beep App project. The work uses Flutter framework to process a TensorFlow Lite model (FlatBuffer format) containing a Trained Convolutional Neural Network (CNN). The model processes a live video from Smartphone Camera (Using Camera plugin 0.5.3) on FLUTTER in order to recognize Tv Station Logos.
 
+Goal:
+----------
+This basically recognize 6 main Brazil Tv Stations Logos (SBT, Globo, Record, RedeTV, Band, TvBrasil)
+
+![](images/broadcasters.jpeg)
 
 Data:
 --------
