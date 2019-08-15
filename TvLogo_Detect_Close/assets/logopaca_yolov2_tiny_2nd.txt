@@ -1,0 +1,5 @@
+globo
+record
+band
+sbt
+redeTV
