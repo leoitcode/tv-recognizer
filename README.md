@@ -6,9 +6,17 @@ This project was originally created to be part of Beep App project. The work use
 
 Data:
 --------
-- Tflite file (TensorFlow Lite), was constructed using DARKNET / YOLO Tiny V2 and after converted to Tflite PB (Protobuf) containing the model' weights and graph definition.
+- TFLITE file (TensorFlow Lite), was constructed using:
+  - Darknet: Open source neural network framework (C and CUDA), for GPU Computation [LINK](https://github.com/pjreddie/darknet)
+  - YOLO V2 Tiny: Real-time object detection system, V2 Tiny version due the compatibility with TensorFlow Lite.
+  - Fastai: vision library to manipulate and check image and training.
+    [The Notebook Logo_Data_Augmentation](Logo_Data_Augmentation.ipynb) show the whole code and explain the Data Augmentation Process.
+  - Darkflow: To convert to Tflite PB (Protobuf) containing the model' weights and the graph definition.
+  
 - The Flutter Folders (TvLogo_Detect) consists of the Distance detection (for entire Television), and Close detection (for just logo on entire phone screen).
-- The Notebook (Logo_Data_Augmentation.ipynb) consists of the program to Augment the logo images due the few images to compose the dataset and for better accuracy on detection.
+
+- The Notebook(Logo_Data_Augmentation.ipynb) consists of the program to Augment the logo images due the few images to compose the dataset and for better accuracy on detection.
+
 - Pre-made APKs to put directly into smartphone.
 
 Setting Up:
