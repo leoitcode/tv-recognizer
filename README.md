@@ -35,8 +35,16 @@ You can install the apk directly on Smartphone:
 - APK for Far distance: 
 - APK for Close distance: 
 
+PREVIEW:
+-----------------
+## Detection on Webcam:
+ 
+![](images/out4.gif)
 
+## Detection on Smartphone:
+![](images/out.gif)
 
-
+## Detecion on Entire Screen:
+![](images/out2.gif)
 
 Copyright © 2019 leoitcode
