@@ -11,7 +11,7 @@ This basically recognize 6 main Brazil Tv Stations Logos (SBT, Globo, Record, Re
 
 Data:
 --------
-- TFLITE file (TensorFlow Lite), was constructed using:
+- TFLITE file (TensorFlow Lite) on /assets folder, was constructed using:
   - Darknet: Open source neural network framework (C and CUDA), for GPU Computation [LINK](https://github.com/pjreddie/darknet)
   - YOLO V2 Tiny: Real-time object detection system, V2 Tiny version due the compatibility with TensorFlow Lite.
   - Fastai: vision library to manipulate, augment and also check the results of training.
